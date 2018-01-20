@@ -1,6 +1,6 @@
 phpBasicFramework
 ------------------------
-###### Installation
+## Installation
 - Unzip to wwwroot, htdocs or <alternative>
 - Import `self/griimnak_phptest.sql` to mysql
 - Configure `config.php`
